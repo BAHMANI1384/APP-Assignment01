@@ -1,0 +1,41 @@
+body {
+  background-color: skyblue;
+}
+h2 {
+color: white;
+text-align: center;
+}
+#Maltipoo {
+background-color: orange;
+font-size: 20px;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 20px;
+margin-bottom: 20px;
+border: white dotted 3px;
+}
+#Like {
+background-color: orange;
+font-size: 20px;
+padding-left: 20px;
+padding-right: 20px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 20px;
+margin-bottom: 20px;
+border: white dotted 3px;
+}
+footer {
+background-color: white;
+text-align: center;
+} 
+img {
+display: block;
+margin: auto;
+}  
